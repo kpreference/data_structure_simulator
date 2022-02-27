@@ -1,5 +1,3 @@
 # data_structure_simulator
-## Who
-### kpreference
-## What
-### 
+### 왜 만들었는가. 
+___
